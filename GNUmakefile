@@ -1,5 +1,5 @@
-#CXX = g++
-CXX = clang++
+CXX = g++
+# CXX = clang++
 CXXFLAGS = -g -DDIM=2
 #CXXFLAGS = -O3 -DDIM=2
 
